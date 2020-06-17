@@ -1,0 +1,100 @@
+PauloPires1         23      S
+SofiaA              23      S
+Tomas111            12      I
+PauloPires2         67      D       4
+MarcoMarquesAAA     40      I
+Zulmira2A           17      S
+Olivia1             12      S
+SamuelSimoes        56      S
+SandraS             58      S
+HugoSantos          20      S
+PauloAlves13        34      S
+Carlos1             20      S
+CarlaCardoso        34      S
+SandraMotaA1        24      S
+PedroPedra          27      S
+DianaD              89      S
+TobiasF             98      S
+LeonardoL           10      S
+Zemariad8e          2       S
+ReinaldoG           54      S
+GabrielSilva        22      S
+BrunaMagal          44      D       2
+PedroCruz           54      S
+Landinho            40      I
+PauloSantos         12      S
+Barbara             67      S
+FlaviaRocha         37      S
+OliviaBastos        72      S
+RogerioSimoes       76      S
+SandroNobre         36      S
+HugoOliveira        10      S
+PedroAlmeida        38      S
+CarlosAugusto       42      D       3
+CarlaMaria          26      D       7
+SandraFelipa        26      S
+VictorDuarte        22      S
+DianaPaula          59      S
+TobiasLarete        48      S
+LeoPozes            30      S
+ZePaulo             82      S
+ReinaldoBrandao     54      S
+LiviaSilva          66      S
+BenjaminMagal       44      S
+PedroJunior         54      S
+LuizSaulo           40      S
+JulianaBraga        32      S
+JulioAmaral         67      S
+RicardoP            23      S
+SandraM             23      S
+TomasMauro          12      I
+GloriaMaria         64      D       4
+RodrigoMaia         47      I
+CiroGomes           37      S
+OliveiraNeto        42      S
+PauloGorgulho       66      S
+VivianS             78      S
+HugoRaus            45      S
+Keila               74      S
+EduardoFraga        22      S
+FransiscoSantos     33      S
+GPereira            56      S
+BeatoSalu           50      S
+SaciPerere          55      S
+Goku                18      D       1
+DarthVader          16      S
+ObiWanKenobi        24      S
+Gandalf             74      D       2
+FrodoBaggins        52      S
+TomCruise           47      S
+ET                  90      S
+TirionLannister     20      I
+Heisenberg          62      S
+DrSpock             77      S
+MrBean              57      S
+NedStark            33      S
+BruceWayne          55      D       5
+ClackKent           46      S
+SrSmith             60      S
+PedroPauloPozes     68      S
+ArdenieGangrel      32      D       3
+RenatoLandirRS      56      D       4
+GilCarlos           16      S
+PHFarias            5       S
+LukeSkywalker       65      S
+JoseRivendell       38      S
+AlexandreMoraes     38      S
+JuniorBahiano       52      S
+Zico10              59      S
+CR7                 63      S
+Messi               44      S
+RagnarLothbrook     54      S
+Utreth              48      S
+Xuxa                22      D       1
+MarceloRebelo       57      S
+Jiraya              13      S
+Frank               56      S
+Santiago            23      S
+ReginaldoRossi      99      S
+PabloMari           25      S
+OtavioLeite         65      D       3

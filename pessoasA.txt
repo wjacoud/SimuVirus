@@ -1,0 +1,12 @@
+PauloPires1       23    S
+Tomas111          12    S
+PauloPires2       67    S    
+LuisaSantos       40    D    3
+Zulmira2A         17    S
+PedroRamos        54    S
+RenataSilva       32    S
+BarbaraSampaio    48    I
+GilbertoBraga     22    S
+MarioBrandao      45    D    1
+
+

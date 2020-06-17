@@ -1,0 +1,299 @@
+
+
+
+	*-------------------------------------  ISEC - INSTITUTO SUPERIOR DE ENGENHARIA DE COIMBRA  ------------------------------------*
+
+	                                                              DEIS
+	                                        DEPARTAMENTO DE ENGENHARIA INFORMÁTICA E DE SISTEMAS 
+	                               Prof: Dr.Francisco José Baptista Pereira  -  Disciplina: Programação 
+
+	                                                   SIMULADOR DE PROPAGAÇÃO VIRAL 
+
+
+	****----***---**--*------------------------------- SIMULAÇÃO - RELATÓRIO FINAL -------------------------------*--**---***----****
+
+
+	INFORMAÇÕES INICIAIS
+
+	Espaço analisado: Espaço 2 (Número de locais: 5 / Capacidade total: 125 pessoas)			  Número de dias: 8
+
+	População analisada: População customizada (Número de Pessoas: 60)
+	---------------------------------------------------------------------------------------------------------------------------------
+	DISTRIBUIÇÃO INICIAL
+
+	Total de Locais: 5		Total de Pessoas: 60	Pessoas Saudáveis: 45	Pessoas Doentes: 11	Pessoas Imunes: 4
+
+	Local Id: 10	Capacidade: 50	Lig: 20			Saudáveis: 11	Doentes: 4	Imunes: 0	Total de Pessoas: 15
+
+	Nome: MarioBrandao                  		Idade: 45				 Estado: D			Dias: 1
+	Nome: RenataSilva                   		Idade: 32				 Estado: S			
+	Nome: PedroRamos                    		Idade: 54				 Estado: S			
+	Nome: Zulmira2A                     		Idade: 17				 Estado: S			
+	Nome: LuisaSantos                   		Idade: 40				 Estado: D			Dias: 3
+	Nome: PauloPires2                   		Idade: 67				 Estado: S			
+	Nome: PauloPires1                   		Idade: 23				 Estado: S			
+	Nome: Santiago                      		Idade: 23				 Estado: S			
+	Nome: Xuxa                          		Idade: 22				 Estado: D			Dias: 1
+	Nome: FrodoBaggins                  		Idade: 52				 Estado: S			
+	Nome: RicardoP                      		Idade: 23				 Estado: S			
+	Nome: VictorDuarte                  		Idade: 22				 Estado: S			
+	Nome: LeonardoL                     		Idade: 10				 Estado: S			
+	Nome: TobiasF                       		Idade: 98				 Estado: S			
+	Nome: PauloPires2                   		Idade: 67				 Estado: D			Dias: 4
+
+	Local Id: 20	Capacidade: 5	Lig: 10	Lig: 30		Saudáveis: 5	Doentes: 0	Imunes: 0	Total de Pessoas: 5
+
+	Nome: ReinaldoBrandao               		Idade: 54				 Estado: S			
+	Nome: BrunaMagal                    		Idade: 44				 Estado: S			
+	Nome: GabrielSilva                  		Idade: 22				 Estado: S			
+	Nome: Zemariad8e                    		Idade:  2				 Estado: S			
+	Nome: PauloPires1                   		Idade: 23				 Estado: S			
+
+	Local Id: 30	Capacidade: 50	Lig: 31	Lig: 32	Lig: 20	Saudáveis: 17	Doentes: 1	Imunes: 2	Total de Pessoas: 20
+
+	Nome: GilbertoBraga                 		Idade: 22				 Estado: S			
+	Nome: BarbaraSampaio                		Idade: 48				 Estado: I			
+	Nome: Tomas111                      		Idade: 12				 Estado: S			
+	Nome: ReginaldoRossi                		Idade: 99				 Estado: S			
+	Nome: Utreth                        		Idade: 48				 Estado: S			
+	Nome: JoseRivendell                 		Idade: 38				 Estado: S			
+	Nome: LukeSkywalker                 		Idade: 65				 Estado: S			
+	Nome: GilCarlos                     		Idade: 16				 Estado: S			
+	Nome: TirionLannister               		Idade: 20				 Estado: I			
+	Nome: ObiWanKenobi                  		Idade: 24				 Estado: S			
+	Nome: DarthVader                    		Idade: 16				 Estado: S			
+	Nome: BeatoSalu                     		Idade: 50				 Estado: S			
+	Nome: JulianaBraga                  		Idade: 32				 Estado: S			
+	Nome: LuizSaulo                     		Idade: 40				 Estado: S			
+	Nome: BenjaminMagal                 		Idade: 44				 Estado: D			Dias: 2
+	Nome: ZePaulo                       		Idade: 82				 Estado: S			
+	Nome: LeoPozes                      		Idade: 30				 Estado: S			
+	Nome: ReinaldoG                     		Idade: 54				 Estado: S			
+	Nome: PedroPedra                    		Idade: 27				 Estado: S			
+	Nome: SofiaA                        		Idade: 23				 Estado: S			
+
+	Local Id: 31	Capacidade: 10	Lig: 30			Saudáveis: 8	Doentes: 2	Imunes: 0	Total de Pessoas: 10
+
+	Nome: RenatoLandirRS                		Idade: 56				 Estado: D			Dias: 4
+	Nome: NedStark                      		Idade: 33				 Estado: S			
+	Nome: DrSpock                       		Idade: 77				 Estado: S			
+	Nome: Heisenberg                    		Idade: 62				 Estado: S			
+	Nome: ET                            		Idade: 90				 Estado: S			
+	Nome: SaciPerere                    		Idade: 55				 Estado: S			
+	Nome: JulioAmaral                   		Idade: 67				 Estado: S			
+	Nome: PedroJunior                   		Idade: 54				 Estado: S			
+	Nome: SandraMotaA1                  		Idade: 24				 Estado: S			
+	Nome: CarlaCardoso                  		Idade: 34				 Estado: D			Dias: 7
+
+	Local Id: 32	Capacidade: 10	Lig: 30			Saudáveis: 4	Doentes: 4	Imunes: 2	Total de Pessoas: 10
+
+	Nome: PHFarias                      		Idade:  5				 Estado: S			
+	Nome: MrBean                        		Idade: 57				 Estado: D			Dias: 2
+	Nome: TomCruise                     		Idade: 47				 Estado: D			Dias: 1
+	Nome: Gandalf                       		Idade: 74				 Estado: D			Dias: 2
+	Nome: Goku                          		Idade: 18				 Estado: S			
+	Nome: LiviaSilva                    		Idade: 66				 Estado: S			
+	Nome: DianaD                        		Idade: 89				 Estado: S			
+	Nome: Carlos1                       		Idade: 20				 Estado: D			Dias: 3
+	Nome: MarcoMarquesAAA               		Idade: 40				 Estado: I			
+	Nome: Tomas111                      		Idade: 12				 Estado: I			
+
+	***----------------------------------------------------  RELATÓRIO DIÁRIO  ---------------------------------------------------***
+	SITUAÇÃO ATUAL			Total de Pessoas: 60								Dia: 1
+	Pessoas Saudáveis: 43			Pessoas Imunes: 4			Pessoas Doentes: 13
+					Número de Pessoas	   Saudáveis		    Imunes		    Doentes
+	Local id:10				15		       9		       0		       6
+	Local id:20				 5		       5		       0		       0
+	Local id:30				20		      16		       2		       2
+	Local id:31				10		       9		       0		       1
+	Local id:32				10		       4		       2		       4
+	---------------------------------------------------------- NOVOS CASOS ----------------------------------------------------------
+					       Pessoas Curadas     Curados Não Imunizados    Curados Imunizados      Pessoas Infectadas
+	Local id:10			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        2 ( 50.00 %)
+	Local id:20			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        0 (   nan %)
+	Local id:30			         0 (  0.00 %)	        0 (  0.00 %)	        0 (  0.00 %)	        1 (100.00 %)
+	Local id:31			         1 ( 12.50 %)	        1 ( 12.50 %)	        0 (   nan %)	        0 (  0.00 %)
+	Local id:32			         0 (  0.00 %)	        0 (  0.00 %)	        0 (  0.00 %)	        0 (  0.00 %)
+	Total--->			         1 (  2.04 %)	        1 (  2.22 %)	        0 (  0.00 %)	        3 ( 27.27 %)
+
+	------------------------------------------------------  TAXAS ACUMULADAS  -------------------------------------------------------
+	Taxa proliferação:  27.27 %                                                                 (Média do período entre o dia 1 e 1)
+	Taxa curados:   2.04 %
+	Taxa curados não imunizados:   2.22 %
+	Taxa curados imunizados:   0.00 %
+
+	***----------------------------------------------------  RELATÓRIO DIÁRIO  ---------------------------------------------------***
+	SITUAÇÃO ATUAL			Total de Pessoas: 62								Dia: 2
+	Pessoas Saudáveis: 38			Pessoas Imunes: 4			Pessoas Doentes: 20
+					Número de Pessoas	   Saudáveis		    Imunes		    Doentes
+	Local id:10				18		      10		       0		       8
+	Local id:20				 4		       2		       0		       2
+	Local id:30				20		      14		       2		       4
+	Local id:31				10		       9		       0		       1
+	Local id:32				10		       3		       2		       5
+	---------------------------------------------------------- NOVOS CASOS ----------------------------------------------------------
+					       Pessoas Curadas     Curados Não Imunizados    Curados Imunizados      Pessoas Infectadas
+	Local id:10			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        2 ( 33.33 %)
+	Local id:20			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        0 (   nan %)
+	Local id:30			         0 (  0.00 %)	        0 (  0.00 %)	        0 (  0.00 %)	        2 (100.00 %)
+	Local id:31			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        0 (  0.00 %)
+	Local id:32			         0 (  0.00 %)	        0 (  0.00 %)	        0 (  0.00 %)	        1 ( 25.00 %)
+	Total--->			         0 (  0.00 %)	        0 (  0.00 %)	        0 (  0.00 %)	        5 ( 38.46 %)
+
+	------------------------------------------------------  TAXAS ACUMULADAS  -------------------------------------------------------
+	Taxa proliferação:  32.87 %                                                                 (Média do período entre o dia 1 e 2)
+	Taxa curados:   1.02 %
+	Taxa curados não imunizados:   1.11 %
+	Taxa curados imunizados:   0.00 %				Atenção, houve adição ou tranferência de pessoa(s) neste dia
+
+	***----------------------------------------------------  RELATÓRIO DIÁRIO  ---------------------------------------------------***
+	SITUAÇÃO ATUAL			Total de Pessoas: 62								Dia: 3
+	Pessoas Saudáveis: 33			Pessoas Imunes: 6			Pessoas Doentes: 23
+					Número de Pessoas	   Saudáveis		    Imunes		    Doentes
+	Local id:10				18		       7		       0		      11
+	Local id:20				 4		       2		       0		       2
+	Local id:30				20		      12		       3		       5
+	Local id:31				10		       9		       0		       1
+	Local id:32				10		       3		       3		       4
+	---------------------------------------------------------- NOVOS CASOS ----------------------------------------------------------
+					       Pessoas Curadas     Curados Não Imunizados    Curados Imunizados      Pessoas Infectadas
+	Local id:10			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        3 ( 37.50 %)
+	Local id:20			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        0 (  0.00 %)
+	Local id:30			         1 (  6.25 %)	        0 (  0.00 %)	        1 ( 50.00 %)	        2 ( 50.00 %)
+	Local id:31			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        0 (  0.00 %)
+	Local id:32			         2 ( 40.00 %)	        1 ( 33.33 %)	        1 ( 50.00 %)	        1 ( 20.00 %)
+	Total--->			         3 (  7.14 %)	        1 (  2.63 %)	        2 ( 50.00 %)	        6 ( 30.00 %)
+
+	------------------------------------------------------  TAXAS ACUMULADAS  -------------------------------------------------------
+	Taxa proliferação:  31.91 %                                                                 (Média do período entre o dia 1 e 3)
+	Taxa curados:   3.06 %
+	Taxa curados não imunizados:   1.62 %
+	Taxa curados imunizados:  16.67 %
+
+	***----------------------------------------------------  RELATÓRIO DIÁRIO  ---------------------------------------------------***
+	SITUAÇÃO ATUAL			Total de Pessoas: 62								Dia: 4
+	Pessoas Saudáveis: 30			Pessoas Imunes: 6			Pessoas Doentes: 26
+					Número de Pessoas	   Saudáveis		    Imunes		    Doentes
+	Local id:10				18		       4		       0		      14
+	Local id:20				 4		       2		       0		       2
+	Local id:30				20		      11		       3		       6
+	Local id:31				10		       9		       0		       1
+	Local id:32				10		       4		       3		       3
+	---------------------------------------------------------- NOVOS CASOS ----------------------------------------------------------
+					       Pessoas Curadas     Curados Não Imunizados    Curados Imunizados      Pessoas Infectadas
+	Local id:10			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        3 ( 27.27 %)
+	Local id:20			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        0 (  0.00 %)
+	Local id:30			         0 (  0.00 %)	        0 (  0.00 %)	        0 (  0.00 %)	        1 ( 20.00 %)
+	Local id:31			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        0 (  0.00 %)
+	Local id:32			         1 ( 16.67 %)	        1 ( 33.33 %)	        0 (  0.00 %)	        0 (  0.00 %)
+	Total--->			         1 (  2.56 %)	        1 (  3.03 %)	        0 (  0.00 %)	        4 ( 17.39 %)
+
+	------------------------------------------------------  TAXAS ACUMULADAS  -------------------------------------------------------
+	Taxa proliferação:  28.28 %                                                                 (Média do período entre o dia 1 e 4)
+	Taxa curados:   2.94 %
+	Taxa curados não imunizados:   1.97 %
+	Taxa curados imunizados:  12.50 %
+
+	***----------------------------------------------------  RELATÓRIO DIÁRIO  ---------------------------------------------------***
+	SITUAÇÃO ATUAL			Total de Pessoas: 62								Dia: 5
+	Pessoas Saudáveis: 25			Pessoas Imunes: 6			Pessoas Doentes: 31
+					Número de Pessoas	   Saudáveis		    Imunes		    Doentes
+	Local id:10				18		       4		       0		      14
+	Local id:20				 4		       2		       0		       2
+	Local id:30				20		       6		       3		      11
+	Local id:31				10		       9		       0		       1
+	Local id:32				10		       4		       3		       3
+	---------------------------------------------------------- NOVOS CASOS ----------------------------------------------------------
+					       Pessoas Curadas     Curados Não Imunizados    Curados Imunizados      Pessoas Infectadas
+	Local id:10			         1 ( 25.00 %)	        1 ( 25.00 %)	        0 (   nan %)	        1 (  7.14 %)
+	Local id:20			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        0 (  0.00 %)
+	Local id:30			         0 (  0.00 %)	        0 (  0.00 %)	        0 (  0.00 %)	        5 ( 83.33 %)
+	Local id:31			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        0 (  0.00 %)
+	Local id:32			         0 (  0.00 %)	        0 (  0.00 %)	        0 (  0.00 %)	        0 (  0.00 %)
+	Total--->			         1 (  2.78 %)	        1 (  3.33 %)	        0 (  0.00 %)	        6 ( 23.08 %)
+
+	------------------------------------------------------  TAXAS ACUMULADAS  -------------------------------------------------------
+	Taxa proliferação:  27.24 %                                                                 (Média do período entre o dia 1 e 5)
+	Taxa curados:   2.91 %
+	Taxa curados não imunizados:   2.24 %
+	Taxa curados imunizados:  10.00 %
+
+	***----------------------------------------------------  RELATÓRIO DIÁRIO  ---------------------------------------------------***
+	SITUAÇÃO ATUAL			Total de Pessoas: 62								Dia: 6
+	Pessoas Saudáveis: 24			Pessoas Imunes: 7			Pessoas Doentes: 31
+					Número de Pessoas	   Saudáveis		    Imunes		    Doentes
+	Local id:10				18		       5		       0		      13
+	Local id:20				 4		       2		       0		       2
+	Local id:30				20		       3		       3		      14
+	Local id:31				10		      10		       0		       0
+	Local id:32				10		       4		       4		       2
+	---------------------------------------------------------- NOVOS CASOS ----------------------------------------------------------
+					       Pessoas Curadas     Curados Não Imunizados    Curados Imunizados      Pessoas Infectadas
+	Local id:10			         3 ( 75.00 %)	        3 ( 75.00 %)	        0 (   nan %)	        2 ( 14.29 %)
+	Local id:20			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        0 (  0.00 %)
+	Local id:30			         0 (  0.00 %)	        0 (  0.00 %)	        0 (  0.00 %)	        3 ( 27.27 %)
+	Local id:31			         1 ( 11.11 %)	        1 ( 11.11 %)	        0 (   nan %)	        0 (  0.00 %)
+	Local id:32			         1 ( 14.29 %)	        0 (  0.00 %)	        1 ( 33.33 %)	        0 (  0.00 %)
+	Total--->			         5 ( 16.13 %)	        4 ( 16.00 %)	        1 ( 16.67 %)	        5 ( 16.13 %)
+
+	------------------------------------------------------  TAXAS ACUMULADAS  -------------------------------------------------------
+	Taxa proliferação:  25.39 %                                                                 (Média do período entre o dia 1 e 6)
+	Taxa curados:   5.11 %
+	Taxa curados não imunizados:   4.54 %
+	Taxa curados imunizados:  11.11 %
+
+	***----------------------------------------------------  RELATÓRIO DIÁRIO  ---------------------------------------------------***
+	SITUAÇÃO ATUAL			Total de Pessoas: 62								Dia: 7
+	Pessoas Saudáveis: 20			Pessoas Imunes: 9			Pessoas Doentes: 33
+					Número de Pessoas	   Saudáveis		    Imunes		    Doentes
+	Local id:10				18		       4		       0		      14
+	Local id:20				 4		       2		       0		       2
+	Local id:30				20		       0		       5		      15
+	Local id:31				10		      10		       0		       0
+	Local id:32				10		       4		       4		       2
+	---------------------------------------------------------- NOVOS CASOS ----------------------------------------------------------
+					       Pessoas Curadas     Curados Não Imunizados    Curados Imunizados      Pessoas Infectadas
+	Local id:10			         1 ( 20.00 %)	        1 ( 20.00 %)	        0 (   nan %)	        2 ( 15.38 %)
+	Local id:20			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        0 (  0.00 %)
+	Local id:30			         2 ( 33.33 %)	        0 (  0.00 %)	        2 ( 66.67 %)	        3 ( 21.43 %)
+	Local id:31			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        0 (   nan %)
+	Local id:32			         0 (  0.00 %)	        0 (  0.00 %)	        0 (  0.00 %)	        0 (  0.00 %)
+	Total--->			         3 (  9.68 %)	        1 (  4.17 %)	        2 ( 28.57 %)	        5 ( 16.13 %)
+
+	------------------------------------------------------  TAXAS ACUMULADAS  -------------------------------------------------------
+	Taxa proliferação:  24.07 %                                                                 (Média do período entre o dia 1 e 7)
+	Taxa curados:   5.76 %
+	Taxa curados não imunizados:   4.48 %
+	Taxa curados imunizados:  13.61 %
+
+	***----------------------------------------------------  RELATÓRIO DIÁRIO  ---------------------------------------------------***
+	SITUAÇÃO ATUAL			Total de Pessoas: 62								Dia: 8
+	Pessoas Saudáveis: 24			Pessoas Imunes: 9			Pessoas Doentes: 29
+					Número de Pessoas	   Saudáveis		    Imunes		    Doentes
+	Local id:10				18		       7		       0		      11
+	Local id:20				 4		       2		       0		       2
+	Local id:30				20		       1		       5		      14
+	Local id:31				10		      10		       0		       0
+	Local id:32				10		       4		       4		       2
+	---------------------------------------------------------- NOVOS CASOS ----------------------------------------------------------
+					       Pessoas Curadas     Curados Não Imunizados    Curados Imunizados      Pessoas Infectadas
+	Local id:10			         4 (100.00 %)	        4 (100.00 %)	        0 (   nan %)	        1 (  7.14 %)
+	Local id:20			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        0 (  0.00 %)
+	Local id:30			         1 ( 20.00 %)	        1 (   inf %)	        0 (  0.00 %)	        0 (  0.00 %)
+	Local id:31			         0 (  0.00 %)	        0 (  0.00 %)	        0 (   nan %)	        0 (   nan %)
+	Local id:32			         1 ( 12.50 %)	        1 ( 25.00 %)	        0 (  0.00 %)	        1 ( 50.00 %)
+	Total--->			         6 ( 20.69 %)	        6 ( 30.00 %)	        0 (  0.00 %)	        2 (  6.06 %)
+
+	------------------------------------------------------  TAXAS ACUMULADAS  -------------------------------------------------------
+	Taxa proliferação:  21.82 %                                                                 (Média do período entre o dia 1 e 8)
+	Taxa curados:   7.63 %
+	Taxa curados não imunizados:   7.67 %
+	Taxa curados imunizados:  11.90 %
+
+	-----------------------------------------------  FIM - DADOS COMPILADOS COM SUCESSO  --------------------------------------------
+
+	                                            Desenvolvido por Wilson Hermes Jacoud Junior 
+
+	----------------------------------------------------------  ISEC - 2020  --------------------------------------------------------
+
+
